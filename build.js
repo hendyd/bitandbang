@@ -15,7 +15,7 @@ const options = {
 
 // Text + chalk definitions
 const data = {
-  name: chalk.white('           Tierney Cyren'),
+  name: chalk.white('           David Hendy'),
   handle: chalk.white('bitandbang'),
   shorthandle: chalk.white('bnb'),
   work: chalk.white('Staff Developer Advocate at Twilio'),
